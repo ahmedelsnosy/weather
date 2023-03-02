@@ -1,0 +1,22 @@
+body{
+    background-image: url(../img/ed625fdcad4b8f799de6beaca774f000.jpg);
+    /* background-size: ; */
+    
+    font-family: 'Poppins',sans-serif;
+    color: black;
+    box-sizing: border-box;
+    
+}
+.col-md-4{
+    transition: 3s;
+    cursor: pointer;
+}
+.col-md-4:hover{
+    transform: scale(1.1);
+}
+.ahmed{
+    background-color: orangered;
+}
+.header{
+    background-color: rgb(12, 12, 42);
+}
